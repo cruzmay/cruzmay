@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi, my name is Pedro Cruz, im a frontend developer 👋
 <!--
 **cruzmay/cruzmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
